@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Punsisi Navodya</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300aaee&size=25&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+|+Aspiring+QA+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300aaee&size=20&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+|+Aspiring+QA+Engineer" alt="Headline" />
 </div>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px"></p>
