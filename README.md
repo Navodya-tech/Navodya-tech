@@ -22,7 +22,7 @@ I’m a versatile software developer with experience in **Full-Stack Development
 
 ## 📫 Contact Me
 - Email: navodyahettiarachchi400@gmail.com
-- LinkedIn: https://www.linkedin.com/in/navodya-hettiarachchi-20a2881ba
+- LinkedIn:   https://www.linkedin.com/in/navodya-hettiarachchi-20a2881ba
 - Portfolio: https://navodya-tech.github.io/ 
 
 ---
